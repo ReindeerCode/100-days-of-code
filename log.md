@@ -12,14 +12,17 @@
 
 
 
-### Day ?: 
+### Day 1: 6/9/2021
 
-**Today's Progress**: 
+**Today's Progress**: I started Hacker Ranks 10 Days of JS to get back in the swing of structured work. I did Day 1: Arithmetic Operators.
 
-**Thoughts** 
+**Thoughts** :Started off by way over thinking it but after a few minutes realized it was easier than it looks and BOOM!
 
 **Link(s) to work**
-1.
+1.https://www.hackerrank.com/challenges/js10-arithmetic-operators/problem
+
+![day 1 solved screenshot](assets/Day_1_Arithmetic_Operators.jpg)
+
 
 ### Day ?: 
 
