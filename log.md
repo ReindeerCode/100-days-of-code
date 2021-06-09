@@ -12,7 +12,7 @@
 
 
 
-### Day 1: 6/9/2021
+### Day 1: 6/8/2021
 
 **Today's Progress**: I started Hacker Ranks 10 Days of JS to get back in the swing of structured work. I did Day 1: Arithmetic Operators.
 
@@ -24,14 +24,17 @@
 ![day 1 solved screenshot](assets/Day_1_Arithmetic_Operators.jpg)
 
 
-### Day ?: 
+### Day 2:  6/9/2021
 
-**Today's Progress**: 
+**Today's Progress**: Finished the Day 1 practice on Hacker Rank.
 
-**Thoughts** 
+**Thoughts** :I needed to do some googling to refresh my memory, but I feel ok about that. Can't remember everything! 
 
 **Link(s) to work**
-1.
+1. https://www.hackerrank.com/challenges/js10-function/problem
+2. https://www.hackerrank.com/challenges/js10-let-and-const/problem
+
+![day 2 solved screenshot](assets/Day_1_Functions_And_LetConst.jpg)
 
 
 ### Day ?: 
