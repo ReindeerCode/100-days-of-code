@@ -39,12 +39,14 @@
 
 ### Day ?: 
 
-**Today's Progress**: 
+**Today's Progress**: Didn't have a lot of time today but I still got onto Hacker Rank to complete at least one challenge.
 
-**Thoughts** 
+**Thoughts** : I initially did a standard If/Else statement but ended up with a more elegant solution using Math.ceil
 
 **Link(s) to work**
-1.
+1.https://www.hackerrank.com/challenges/js10-if-else/problem
+
+![day 2 solved screenshot](assets/Day_2_If_Else.jpg)
 
 ### Day ?: 
 
