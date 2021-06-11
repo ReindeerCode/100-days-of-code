@@ -48,14 +48,16 @@
 
 ![day 2 solved screenshot](assets/Day_2_If_Else.jpg)
 
-### Day ?: 
+### Day 3: 
 
-**Today's Progress**: 
+**Today's Progress**: Fell short on time again today and was only able to get to Day 2: Conditional Statements: Switch on Hacker Rank
 
-**Thoughts** 
+**Thoughts** : I need to use Switch statements more often! I forgot how handy these are.
 
 **Link(s) to work**
-1.
+1.https://www.hackerrank.com/challenges/js10-switch/problem
+
+![day 3 solved screenshot](assets/Day_2_Switch.jpg)
 
 ### Day ?: 
 
