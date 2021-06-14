@@ -37,7 +37,7 @@
 ![day 2 solved screenshot](assets/Day_1_Functions_And_LetConst.jpg)
 
 
-### Day ?: 
+### Day 3: 
 
 **Today's Progress**: Didn't have a lot of time today but I still got onto Hacker Rank to complete at least one challenge.
 
@@ -46,9 +46,9 @@
 **Link(s) to work**
 1.https://www.hackerrank.com/challenges/js10-if-else/problem
 
-![day 2 solved screenshot](assets/Day_2_If_Else.jpg)
+![day 3 solved screenshot](assets/Day_2_If_Else.jpg)
 
-### Day 3: 
+### Day 4: 
 
 **Today's Progress**: Fell short on time again today and was only able to get to Day 2: Conditional Statements: Switch on Hacker Rank
 
@@ -57,16 +57,18 @@
 **Link(s) to work**
 1.https://www.hackerrank.com/challenges/js10-switch/problem
 
-![day 3 solved screenshot](assets/Day_2_Switch.jpg)
+![day 4 solved screenshot](assets/Day_2_Switch.jpg)
 
-### Day ?: 
+### Day 5: 
 
-**Today's Progress**: 
+**Today's Progress**: Really fell behind the last few days as I went out of town then hurt my back. Got to it after work today though!
 
-**Thoughts** 
+**Thoughts** : I need to practice loops more. I want to be more comfortable with modern forEach and Map
 
 **Link(s) to work**
-1.
+1.https://www.hackerrank.com/challenges/js10-loops/problem
+
+![day 5 solved screenshot](assets/Day_2_Loops.jpg)
 
 ### Day ?: 
 
