@@ -70,14 +70,16 @@
 
 ![day 5 solved screenshot](assets/Day_2_Loops.jpg)
 
-### Day ?: 
+### Day 6: 
 
-**Today's Progress**: 
+**Today's Progress**: Planning to focus on MongoDB going forward but will still work on JS through Hacker Rank. Completed Day 3: Arrays but may do another update tonight after working on MongoDB.
 
-**Thoughts** 
+**Thoughts** : I need to start a full stack project to test all my skills.
 
 **Link(s) to work**
-1.
+1.https://www.hackerrank.com/challenges/js10-arrays/problem
+
+![day 6 solved screenshot](assets/Day_3_Arrays.jpg)
 
 ### Day ?: 
 
