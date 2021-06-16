@@ -59,7 +59,7 @@
 
 ![day 4 solved screenshot](assets/Day_2_Switch.jpg)
 
-### Day 5: 
+### Day 5: 6/14/2021
 
 **Today's Progress**: Really fell behind the last few days as I went out of town then hurt my back. Got to it after work today though!
 
@@ -70,7 +70,7 @@
 
 ![day 5 solved screenshot](assets/Day_2_Loops.jpg)
 
-### Day 6: 
+### Day 6: 6/15/2021
 
 **Today's Progress**: Planning to focus on MongoDB going forward but will still work on JS through Hacker Rank. Completed Day 3: Arrays but may do another update tonight after working on MongoDB.
 
@@ -81,14 +81,17 @@
 
 ![day 6 solved screenshot](assets/Day_3_Arrays.jpg)
 
-### Day ?: 
+### Day 7: 6/16/2021
 
-**Today's Progress**: 
+**Today's Progress**: Did the Day 3: Try, Catch, and Finally on Hacker Rank
 
-**Thoughts** 
+**Thoughts** : I cannot remember ever doing this in the past and needed to do a good amount of googling. It is interesting and I need to try a few more problems like this.
 
 **Link(s) to work**
-1.
+1.https://www.hackerrank.com/challenges/js10-try-catch-and-finally/problem
+
+![day 7 solved screenshot](assets/Day_3_Try_Catch_and_Finally.jpg)
+
 
 ### Day ?: 
 
