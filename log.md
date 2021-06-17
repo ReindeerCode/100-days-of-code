@@ -93,14 +93,16 @@
 ![day 7 solved screenshot](assets/Day_3_Try_Catch_and_Finally.jpg)
 
 
-### Day ?: 
+### Day 8: 6/17/2021
 
-**Today's Progress**: 
+**Today's Progress**: Worked on Catch and Throw in Hacker Rank.
 
-**Thoughts** 
+**Thoughts** : Had to google to refresh my memory but then I realized this is easier than I was thinking.
 
 **Link(s) to work**
-1.
+1.https://www.hackerrank.com/challenges/js10-throw/problem
+
+![day 8 solved screenshot](assets/Day_3_Throw.jpg)
 
 ### Day ?: 
 
