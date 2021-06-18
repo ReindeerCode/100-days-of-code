@@ -104,14 +104,16 @@
 
 ![day 8 solved screenshot](assets/Day_3_Throw.jpg)
 
-### Day ?: 
+### Day 9: 6/18/2021
 
-**Today's Progress**: 
+**Today's Progress**: Worked on the Day 4: Create a Rectangle Object problem on Hacker Rank
 
-**Thoughts** 
+**Thoughts** This was a good one! I was confused what they were looking for at first but after some googling realized I could use Key Value pairs to create the rectangle.
 
 **Link(s) to work**
-1.
+1.https://www.hackerrank.com/challenges/js10-objects/problem
+
+![day 8 solved screenshot](assets/Day_4_Create_Rectangle_Object.jpg)
 
 ### Day ?: 
 
