@@ -115,14 +115,16 @@
 
 ![day 8 solved screenshot](assets/Day_4_Create_Rectangle_Object.jpg)
 
-### Day ?: 
+### Day 9: 6/21/2021
 
-**Today's Progress**: 
+**Today's Progress**: Worked on Day 4: Count Objects on Hacker Rank and MERN project.
 
-**Thoughts** 
+**Thoughts** : Harder than it should have been for two reasons - one, read the directions a few times to make sure you understand what they are giving you, and two, do these more often!
 
 **Link(s) to work**
-1.
+1.https://www.hackerrank.com/challenges/js10-count-objects/problem
+
+![day 9 solved screenshot](assets/Day_4_Count_Objects.jpg)
 
 ### Day ?: 
 
