@@ -126,14 +126,17 @@
 
 ![day 9 solved screenshot](assets/Day_4_Count_Objects.jpg)
 
-### Day ?: 
+### Day 10:  6/22/2021
 
-**Today's Progress**: 
+**Today's Progress**: Worked on Day 4: Classes and first Python project
 
-**Thoughts** 
+**Thoughts** : I had forgotten all about classes and Python is cool!
 
 **Link(s) to work**
-1.
+1.https://www.hackerrank.com/challenges/js10-class/problem
+2.https://github.com/ReindeerCode/Python_First_Try
+
+![day 10 solved screenshot](assets/Day_4_Classes.jpg)
 
 ### Day ?: 
 
