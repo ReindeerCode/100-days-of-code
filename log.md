@@ -138,14 +138,16 @@
 
 ![day 10 solved screenshot](assets/Day_4_Classes.jpg)
 
-### Day ?: 
+### Day 11: 6/23/3021
 
-**Today's Progress**: 
+**Today's Progress**: Worked on Hacker Rank Day 5: Inheritance and Python project
 
-**Thoughts** 
+**Thoughts** . This took way longer than it should have and I needed to do a lot of Googling.
 
 **Link(s) to work**
-1.
+1.https://www.hackerrank.com/challenges/js10-inheritance/problem
+
+![day 11 solved screenshot](assets/Day_5_Inheritance.jpg)
 
 ### Day ?: 
 
